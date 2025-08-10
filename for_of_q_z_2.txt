@@ -1,0 +1,5 @@
+for (const c of "nitinraj") {
+    // if (Object.prototype.hasOwnProperty.call(object, c)) {
+        console.log(c)
+        
+    }

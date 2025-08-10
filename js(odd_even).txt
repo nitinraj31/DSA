@@ -1,0 +1,18 @@
+console.log("WE Came Across The Tutorial For working loops ")
+for (let i = 0; i <100; i++)
+     {
+    if (i%2==0)
+         {
+
+        console.log(i)
+    }
+}
+console.log("odd number ")
+for (let z= 0; z <100; z++)
+     {
+    if (z%2==0)
+         {
+
+        console.log(z+1 )
+    }
+}

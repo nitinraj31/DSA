@@ -1,0 +1,35 @@
+let a_1_name="nitin";
+let a_2_name="sachin";
+let a_3_name="suresh";
+
+
+let b_1_name="food ";
+let b_2_name="garments ";
+let b_3_name="electronics ";
+
+
+let c_1_name="private limited ";
+let c_2_name="hub private limited";
+let c_3_name="corporation limited ";
+
+
+let rand1 = Math.floor(Math.random() * 3);
+let firstName;  
+if (rand1 === 0) firstName = a_1_name;
+else if (rand1 === 1) firstName = a_2_name;
+else firstName = a_3_name;
+
+let rand2 = Math.floor(Math.random() * 3);
+let middleName;                     
+if (rand2 === 0) middleName = b_1_name;
+else if (rand2 === 1) middleName = b_2_name;
+else middleName = b_3_name;
+
+let rand3 = Math.floor(Math.random() * 3);
+let lastName;
+if (rand3 === 0) lastName = c_1_name;
+else if (rand3 === 1) lastName = c_2_name;
+else lastName = c_3_name;   
+
+let fullName = firstName + " " + middleName + " " + lastName;
+console.log("Random Name:", fullName);
