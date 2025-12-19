@@ -1,0 +1,6 @@
+function sum(a,b){
+    return a+b;
+
+}
+res=sum(11,9);
+console.log("the Value enter by an user using an function is ..",res);
