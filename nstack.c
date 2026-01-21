@@ -76,3 +76,6 @@ int main()
     printf("Program terminated by user.\n");
     return 0;
 }
+
+// End of nstack.c
+
