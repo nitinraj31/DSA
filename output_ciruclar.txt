@@ -1,0 +1,114 @@
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter value to enqueue: 20
+20 enqueued into queue
+Stored at address: 00407080
+Do you want to continue (y/n)? y
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter value to enqueue: 20
+20 enqueued into queue
+Stored at address: 00407084
+Do you want to continue (y/n)? y
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter value to enqueue: 30
+30 enqueued into queue
+Stored at address: 00407088
+Do you want to continue (y/n)? y
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter value to enqueue: 40
+40 enqueued into queue
+Stored at address: 0040708C
+Do you want to continue (y/n)? y
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 40
+Invalid choice
+Do you want to continue (y/n)? y
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter value to enqueue: 50
+50 enqueued into queue
+Stored at address: 00407090
+Do you want to continue (y/n)? y
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter value to enqueue: 60
+60 enqueued into queue
+Stored at address: 00407094
+Do you want to continue (y/n)? y
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1 
+Enter value to enqueue: 70
+70 enqueued into queue
+Stored at address: 00407098
+Do you want to continue (y/n)? y
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter value to enqueue: 80
+80 enqueued into queue
+Stored at address: 0040709C
+Do you want to continue (y/n)? y
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter value to enqueue: 90
+90 enqueued into queue
+Stored at address: 004070A0
+Do you want to continue (y/n)? y
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter value to enqueue: 100
+100 enqueued into queue
+Stored at address: 004070A4
+Do you want to continue (y/n)? y
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 3
+Queue elements with addresses:
+Value: 20  Address: 00407080
+Value: 20  Address: 00407084
+Value: 30  Address: 00407088
+Value: 40  Address: 0040708C
+Value: 50  Address: 00407090
+Value: 60  Address: 00407094
+Value: 70  Address: 00407098
+Value: 80  Address: 0040709C
+Value: 90  Address: 004070A0
+Value: 100  Address: 004070A4
+Do you want to continue (y/n)?
